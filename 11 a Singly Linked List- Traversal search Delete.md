@@ -1,7 +1,8 @@
 # 19CS301-Module11
 ### EX: 11 a Singly Linked List (Traversal, Search and Delete)
 
-### Aim: Write a function to traverse the linked list and display it in the following format.
+### Aim:
+Write a function to traverse the linked list and display it in the following format.
 
 ### Algorithm:
 
@@ -19,6 +20,9 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+Reg no-212223070007
+Name-Gopinath G
+
 class Node:
       def     init (self, data=None):
             self.data = data
@@ -51,7 +55,8 @@ list.listprint()
 ![image](https://github.com/user-attachments/assets/f7547c51-0a61-45c2-93da-48fbb60de473)
 
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: 
+Thus the function to traverse the linked list and display it in the following format was executed successfully .
  
 
 
