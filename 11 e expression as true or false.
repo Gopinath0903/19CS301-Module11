@@ -1,0 +1,40 @@
+##Aim:
+Write a python program to print the result of the following expression as true or false.
+
+
+##Algorithm:
+
+1. Compare if `1` is equal to `True`, store result in `a`.
+2. Compare if `1` is equal to `False`, store result in `b`.
+3. Add `True` (which is 1) to 3, store result in `c`.
+4. Add `False` (which is 0) to 7, store result in `d`.
+5. Print values of `a`, `b`, `c`, and `d`.
+
+
+##Program:
+```
+##Name-Gopinath G
+##Reg no-212223070007
+
+a = (1 == True)
+
+b = (1 == False)
+
+c = True + 3
+
+d = False + 7
+
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
+
+```
+
+
+##Output:
+
+##Result:
+Thus the python program to print the result of the following expression as true or false was executed successfully.
+
+
